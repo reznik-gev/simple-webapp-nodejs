@@ -7,7 +7,7 @@ void call(boolean isStupid) {
     }
 }
 
-void call(map args) {
+void call(Map args) {
     call(
         args.isStupid
     )
